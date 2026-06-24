@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="RiskRadar — Real-Time Fraud Detection" width="100%"/>
+<img src="https://raw.githubusercontent.com/Devanshu11976/FraudDetectionApp/main/banner.svg" alt="RiskRadar — Real-Time Fraud Detection" width="100%"/>
 
 <br/>
 
@@ -82,7 +82,7 @@ It's built for the workflow financial teams actually need: ingest → score → 
 
 ## 🏗️ Architecture
 
-<img src="./architecture.svg" alt="RiskRadar system architecture" width="100%"/>
+<img src="https://raw.githubusercontent.com/Devanshu11976/FraudDetectionApp/main/architecture.svg" alt="RiskRadar system architecture" width="100%"/>
 
 <br/>
 
